@@ -1,0 +1,7 @@
+1.go to start menu.
+2.run command
+3.regedit in run command.
+4.HKEY_CURRENT_USER\\software\microsoft\windows\currentvershion\explorer\flexts\
+5.search for .lnk ext.
+6.delete hole .lnk key or delete the user choice key on that.
+7 just restart
